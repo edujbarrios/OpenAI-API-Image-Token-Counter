@@ -23,14 +23,6 @@ A comprehensive Python package for calculating token costs when using images wit
 pip install openai-image-token-counter
 ```
 
-### Development Installation
-
-```bash
-git clone https://github.com/edujbarrios/openai-image-token-counter.git
-cd openai-image-token-counter
-pip install -e .
-```
-
 ## 🏃 Quick Start
 
 ### Python API
@@ -277,4 +269,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Note**: This package implements the token calculation algorithms as documented by OpenAI. Always verify costs with the official OpenAI pricing page before making financial decisions.
 
 # Author
+
 **Eduardo J. Barrios** - [https://edujbarrios.com](https://edujbarrios.com)
